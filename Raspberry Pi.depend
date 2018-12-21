@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1532603758 source:c:\users\itzme\desktop\new folder\raspberry pi\main.cpp
+	<iostream>
+	<windows.h>
+	"utilities.cpp"
+
+1532603862 c:\users\itzme\desktop\new folder\raspberry pi\utilities.cpp
+	<iostream>
+	<string.h>
+	<fstream>
+	<math.h>
+
